@@ -1,4 +1,4 @@
-# Hi there, I'm Khalil Araiche [codeSTACKr][youtube] 👋 
+# Hi there, I'm Khalil Araiche [InfinityCode][https://www.youtube.com/channel/UC-O2ynMpHvTBpL95OjiX8xg] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
