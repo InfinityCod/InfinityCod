@@ -1,4 +1,4 @@
-# Hi there, I'm Khalil Araiche [InfinityCode][Youtube] 👋 
+# Hi there, I'm Khalil Araiche JavaScript Developer 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -11,11 +11,11 @@
 ## I'm a Freind , Creator and Software Developer!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web 3.0
-- ⚡ Fun fact: I love to draw and Create Something new / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🌱 I’m currently learning Node.Js
+- 👯 I’m looking to collaborate with other Developers
+- 🥅 2022 Goals: Learn more about web 3.0 & BlockChain
+- ⚡ Fun fact: I love to Coding , Create Something new and reading .
+- 😻 Check out My portfolio for More Info : [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
 
@@ -109,11 +109,11 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/Infinit_yCode
+[youtube]: https://www.youtube.com/channel/UC-O2ynMpHvTBpL95OjiX8xg
+[instagram]: https://www.instagram.com/infinity_code22/
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webplaylist]: https://www.youtube.com/watch?v=a5paaAnULbQ&list=PL8dE5lnhGYct_adR9XG-lpOaR0rmNjA24
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[cssplaylist]: https://www.youtube.com/watch?v=cJ6GxAN9zrA&list=PL8dE5lnhGYcsLGExeDgFgd4xG8CNN4rEI
+[JSplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
