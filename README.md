@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="facebook" width="26px" color:red src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />]
 &nbsp;&nbsp;
 [<img align="left" alt="instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />]
 &nbsp;&nbsp;
