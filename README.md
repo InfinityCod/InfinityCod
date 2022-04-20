@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **back-end developer**
 
-- 👨‍💻 All of my projects are available at [InfinityCod](InfinityCod)
+- 👨‍💻 All of my projects are available at [InfinityCod](https://m.youtube.com/channel/UC-O2ynMpHvTBpL95OjiX8xg)
 
 - 💬 Ask me about **anything you want**
 
@@ -25,11 +25,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/InfinityCode#7555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="InfinityCode#7555" height="30" width="40" /></a>
 <a href="https://twitter.com/infinit_ycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infinit_ycode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khalil araiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalil araiche" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khalil-araiche-b1488920b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalil araiche" height="30" width="40" /></a>
 <a href="https://fb.com/khalil ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalil ar" height="30" width="40" /></a>
-<a href="https://instagram.com/infinitycod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="infinitycod" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/infinity code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infinity code" height="30" width="40" /></a>
+<a href="https://instagram.com/infinity_code22?r=nametag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="infinitycod" height="30" width="40" /></a>
+<a href="https://m.youtube.com/channel/UC-O2ynMpHvTBpL95OjiX8xg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infinity code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
