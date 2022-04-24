@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinitycod&label=Profile%20views&color=0e75b6&style=flat" alt="infinitycod" /> </p>
 
-<p align="left"> <a href="https://twitter.com/infinit_ycode" target="blank"><img src="https://img.shields.io/twitter/follow/infinit_ycode?logo=twitter&style=for-the-badge" alt="infinit_ycode" /></a> </p>
+<p align="left"> <a href="https://twitter.com/khalilKrp" target="blank"><img src="https://img.shields.io/twitter/follow/khalilKrp?logo=twitter&style=for-the-badge" alt="khalilKrp" /></a> </p>
 
 - 🔭 I’m currently Working on **New project with Node & Express**
 
